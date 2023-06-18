@@ -1,7 +1,7 @@
-import { Button, FormController, Grid, GridItem, Box } from '@chakra-ui/react';
+import { Button, Grid, GridItem, Box } from '@chakra-ui/react';
 
 const JComponents = {
-    Button, FormController, Grid, GridItem, Box
+    Button, Grid, GridItem, Box
 }
 
 module.exports = JComponents;
