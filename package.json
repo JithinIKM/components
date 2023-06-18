@@ -1,0 +1,30 @@
+{
+  "name": "componentsjithinkaranath",
+  "version": "1.0.0",
+  "description": "common components for j-projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JithinIKM/components.git"
+  },
+  "keywords": [
+    "react",
+    "chakra",
+    "jithinkaranath"
+  ],
+  "author": "jithinkaranath@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JithinIKM/components/issues"
+  },
+  "homepage": "https://github.com/JithinIKM/components#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.12.16"
+  }
+}
