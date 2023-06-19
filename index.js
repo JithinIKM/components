@@ -1,7 +1,5 @@
 import { Button, Grid, GridItem, Box } from '@chakra-ui/react';
 
-const JComponents = {
+export {
     Button, Grid, GridItem, Box
 }
-
-module.exports = JComponents;
