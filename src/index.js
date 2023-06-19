@@ -1,7 +1,5 @@
-import { Radio } from '@chakra-ui/react';
+import { Button, Grid, GridItem, Box } from '@chakra-ui/react';
 
-const JComponents = {
-    Radio
+export {
+    Button, Grid, GridItem, Box
 }
-
-module.exports = JComponents;
