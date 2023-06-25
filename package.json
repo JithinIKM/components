@@ -1,7 +1,7 @@
 {
-  "name": "componentsjithinkaranath",
-  "version": "1.0.2",
-  "description": "common components for j-projects",
+  "name": "@micro-comets/components",
+  "version": "1.0.0",
+  "description": "common components for",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,5 +26,6 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "framer-motion": "^10.12.16"
-  }
+  },
+  "devDependencies": {}
 }
